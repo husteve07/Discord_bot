@@ -1,7 +1,7 @@
 # Discord_bot_personal
 Personal use discord bot for fun
 
-list of commands :**************************************
+list of commands :***************************************
 
 prefix : 8+D~
 
